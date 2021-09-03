@@ -7,7 +7,7 @@ Projecto livraria que realiza CRUD.
  * Arquitetura MVC
  
 # Desenvolvido por
- * Cacildo Erasmo Mabunda
+ * Cacildo Erasmo
 
 Obrigado!
 
