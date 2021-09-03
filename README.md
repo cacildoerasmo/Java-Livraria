@@ -6,5 +6,8 @@ Projecto livraria que realiza CRUD.
  * MySQL
  * Arquitetura MVC
  
- # Como usar
- 
+# Desenvolvido por
+ * Cacildo Erasmo Mabunda
+
+Obrigado!
+
